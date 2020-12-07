@@ -1,0 +1,20 @@
+.flex-container {
+  display: flex;
+  background-color: black;
+  margin-top: 20%;
+  margin-right: 20%;
+  margin-bottom: 20%;
+  margin-left: 20%;
+}
+
+.headerText {
+  align-content: center;
+  color: #43aab3;
+  margin: auto;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
